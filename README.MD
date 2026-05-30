@@ -58,11 +58,12 @@ python main.py
 └── arquivo.pdf
 ```
 
-# Depois
-
+**Depois:**
+```bash
  /Documentos 
 ├── imagens/
 │   ├── foto1.png
 │   └── foto2.jpg
 └── pdfs/
     └── arquivo.pdf
+```
